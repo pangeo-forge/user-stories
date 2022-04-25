@@ -29,7 +29,7 @@ body:
       description: This is something that can be verified to show that this user story is satisfied.
   - type: textarea
     id: linked-issue
-    attributues:
+    attributes:
       label: Linked Issues
       description: Specific issues that need to be resolved to enable this user story
       placeholder: Can be created and updated later...
